@@ -1,4 +1,16 @@
+.vertical-line {
+    background-color: #101010;
+    width: 0.1vw;
+    height: 80vh;
+}
+
 .reveal h3 {
     text-transform: none;
-    color: blue;
+}
+
+.reveal .dm-sans {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
